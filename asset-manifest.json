@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sneaker-symphony/static/css/main.232a4536.css",
-    "main.js": "/sneaker-symphony/static/js/main.15ad5fac.js",
-    "index.html": "/sneaker-symphony/index.html",
-    "main.232a4536.css.map": "/sneaker-symphony/static/css/main.232a4536.css.map",
-    "main.15ad5fac.js.map": "/sneaker-symphony/static/js/main.15ad5fac.js.map"
+    "main.css": "/Sneaker-symphony/static/css/main.232a4536.css",
+    "main.js": "/Sneaker-symphony/static/js/main.15ad5fac.js",
+    "index.html": "/Sneaker-symphony/index.html",
+    "main.232a4536.css.map": "/Sneaker-symphony/static/css/main.232a4536.css.map",
+    "main.15ad5fac.js.map": "/Sneaker-symphony/static/js/main.15ad5fac.js.map"
   },
   "entrypoints": [
     "static/css/main.232a4536.css",

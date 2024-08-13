@@ -13,3 +13,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+    a {
+      text-decoration: none;
+      /* Removes the underline */
+      color: inherit;
+      /* Inherits the color from the parent element */
+    }
+
+    a:visited {
+      color: inherit;
+      /* Keeps the visited link color the same as unvisited */
+    }
+
+    a:hover {
+      text-decoration: underline;
+      /* Optionally, underline on hover to show it's a link */
+    }
+
+    a:active {
+      color: inherit;
+      /* Keeps the color the same when the link is clicked */
+    }
+
+    a:focus {
+      outline: none;
+      /* Removes the focus outline (the dotted border) */
+    }
